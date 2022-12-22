@@ -1,2 +1,0 @@
-I am abc.txt file 
-created for testing of github post
